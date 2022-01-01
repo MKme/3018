@@ -57,7 +57,7 @@ Part 3: https://www.youtube.com/watch?v=uXbvilvltno&list=PLf_FeOPE7t5oFH7cH6LmOS
 
 Part 4: https://www.youtube.com/watch?v=I1g_5FwFcC8&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=4&t=5s
 
-Part 5;  
+Part 5: https://www.youtube.com/watch?v=GIUuVpB_j9A 
 
 ### NOOBs Guide To First Cuts 
 
