@@ -19,19 +19,30 @@ All the parts Ive used to build the 3018 and upgrades I have added
 
 |     Component    | Source  |
 | ---------- |----------------|
-| 3018 CNC MAchine | https://amzn.to/3pK1ZLT
+| Amazon- 3018 CNC Machine | https://amzn.to/3pK1ZLT
+| Ebay- Router Kit CNC 3018 Pro Machine 3 Axis 10000 rpm Mill PCB Engraver GRBL Control| https://ebay.us/W8HP4r
+| Offline GRBL Controller| https://ebay.us/ckhK1e
 | ER11 Collet Set | https://amzn.to/343iBWA
 | Spoilboard | https://amzn.to/3pHBZRw
-|1" / 1/4" Spoilboard facing bit| https://amzn.to/3sNfIDH
+| 1" / 1/4" Spoilboard facing bit| https://amzn.to/3sNfIDH
 | Spiral Wire Wrap | https://amzn.to/3FH86WW
 | Clear Enclosure box for CNC | https://amzn.to/3eEoEmz 
+| 5Pcs HSS CNC Straight Shank 4 Flute End Mill Cutter Drill Bit Tool 4/6/8/10/12mm  | https://ebay.us/2YhFQY
+| 3.175mm Shank Carbide Ball Nose End Mill CNC Engraving Router bit Set 1-3.175mm | https://ebay.us/iut9AZ
+| Router Z-CheckPlate Setting Probe | https://ebay.us/5xJLyh
+| 10Pc 20 Degree 0.1mm Carbide PCB Engraving Bits CNC Router Tool 3.175mm Shank | https://ebay.us/X4Ojiy
+| 10 X 1/8 Shank Titanium Coated End Mill Carbide CNC Milling Cutter Router Bits | https://ebay.us/idcgTA
+| 10pcs 3.175mm Titanium Coated PCB Carbide Milling Cutter CNC Router Bit 1.0mm | https://ebay.us/ZVp0hr
+
 
 
 Handy Supplies 
 
 |     Component    | Source  |
 | ---------- |----------------|
-| FR Copper Blanks | https://amzn.to/34dta9L
+| FR4 Copper Blanks | https://amzn.to/34dta9L
+| 150mm Vernier Caliper Stainless Steel Digital Caliper 6 inch   | https://ebay.us/4c7PpS
+| Drill Size Gauge 29 Holes 1/16 to 1/2" Sizes Bolt Wire Diameter Index Sizer| https://ebay.us/jrOKvM
 
 
 ### Full videos here:
