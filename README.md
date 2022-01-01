@@ -60,13 +60,13 @@ or
 
 * http://mkme.tv
 
-Part 1: https://www.youtube.com/watch?v=dMigu1GxnhI&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=2
+Part 1: https://www.youtube.com/watch?v=dMigu1GxnhI
 
-Part 2: https://www.youtube.com/watch?v=k8vIYXJhONk&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=1&t=1176s
+Part 2: https://www.youtube.com/watch?v=k8vIYXJhONk
 
-Part 3: https://www.youtube.com/watch?v=uXbvilvltno&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=3&t=3941s
+Part 3: https://www.youtube.com/watch?v=uXbvilvltno
 
-Part 4: https://www.youtube.com/watch?v=I1g_5FwFcC8&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=4&t=5s
+Part 4: https://www.youtube.com/watch?v=I1g_5FwFcC8
 
 Part 5: https://www.youtube.com/watch?v=GIUuVpB_j9A 
 
