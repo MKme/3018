@@ -33,6 +33,8 @@ All the parts Ive used to build the 3018 and upgrades I have added
 | 10Pc 20 Degree 0.1mm Carbide PCB Engraving Bits CNC Router Tool 3.175mm Shank | https://ebay.us/X4Ojiy
 | 10 X 1/8 Shank Titanium Coated End Mill Carbide CNC Milling Cutter Router Bits | https://ebay.us/idcgTA
 | 10pcs 3.175mm Titanium Coated PCB Carbide Milling Cutter CNC Router Bit 1.0mm | https://ebay.us/ZVp0hr
+| Air Pressure Regulator with water trap | https://ebay.us/2Yts93https://ebay.us/ZeRWfh
+| Air Pressure Regulator (no trap) | 
 
 
 
