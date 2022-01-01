@@ -65,7 +65,7 @@ Part 5: https://www.youtube.com/watch?v=GIUuVpB_j9A
 2. Connect Candle to the CNC and type $$ in to console- save this output as a backup file for initial config 
 
 
-Guidlines and definitions from Facebook group docs (not mine) 
+### Guidlines and definitions from Facebook group docs (not mine) 
 
 
 $0=10 Step pulse, microseconds 3-15 ish (only the 15 is ish)
