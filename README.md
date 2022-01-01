@@ -45,9 +45,11 @@ Handy Supplies
 | Drill Size Gauge 29 Holes 1/16 to 1/2" Sizes Bolt Wire Diameter Index Sizer| https://ebay.us/jrOKvM
 
 
-### Full videos here:
+## Full videos here:
 
-I assembled the eniter 3018 live on MKME.tv  https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
+###I assembled the eniter 3018 live on MKME.tv 
+
+* Channel https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
 
 Part 1: https://www.youtube.com/watch?v=dMigu1GxnhI&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=2
 
