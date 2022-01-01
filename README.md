@@ -54,11 +54,7 @@ Handy Supplies
 
 ### I assembled the entire 3018 CNC kit live on MKME.tv YouTube channel
 
-* Channel https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
-
-or 
-
-* http://mkme.tv
+Full Playlist:  https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
 
 Part 1: https://www.youtube.com/watch?v=dMigu1GxnhI
 
