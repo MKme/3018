@@ -19,7 +19,19 @@ All the parts Ive used to build the 3018 and upgrades I have added
 
 |     Component    | Source  |
 | ---------- |----------------|
-| 3018 Lathe | https://amzn.to/3CXCyKh
+| 3018 CNC MAchine | https://amzn.to/3pK1ZLT
+| ER11 Collet Set | https://amzn.to/343iBWA
+| Spoilboard | https://amzn.to/3pHBZRw
+|1" / 1/4" Spoilboard facing bit| https://amzn.to/3sNfIDH
+| Spiral Wire Wrap | https://amzn.to/3FH86WW
+| Clear Enclosure box for CNC | https://amzn.to/3eEoEmz 
+
+
+Handy Supplies 
+
+|     Component    | Source  |
+| ---------- |----------------|
+| FR Copper Blanks | https://amzn.to/34dta9L
 
 
 ### Full videos here:
