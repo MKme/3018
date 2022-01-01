@@ -47,9 +47,13 @@ Handy Supplies
 
 ## Full videos here:
 
-### I assembled the eniter 3018 live on MKME.tv 
+### I assembled the entire 3018 CNC kit live on MKME.tv YouTube channel
 
 * Channel https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
+
+or 
+
+* http://mkme.tv
 
 Part 1: https://www.youtube.com/watch?v=dMigu1GxnhI&list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV&index=2
 
