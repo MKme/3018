@@ -11,7 +11,9 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 
 # 3018
-3018 CNC Stuffs I figure out
+I bought the 3018 CNC as a cheap DIY kit and built it live on YouTube at the links below.  This repo is where I am storing all the information, guides, tutorials, parts and supplies  use in this build.
+I have linked the exact parts and supplies you will see in upcoming videos on the main channel. So far it seems to be a great kit.  I am totally new to CNC but have 3D Printing and laser cutting experience. 
+
 
 ## Parts:
 
