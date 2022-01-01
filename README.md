@@ -55,6 +55,8 @@ Part 5;
 
 
 Guidlines and definitions
+
+
 $0=10 Step pulse, microseconds 3-15 ish (only the 15 is ish)
 $1=25 Step idle delay, milliseconds 15-30 ish OR 255
 $2=0 Step port invert, mask Only 0-7
