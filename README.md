@@ -47,7 +47,7 @@ Handy Supplies
 
 ## Full videos here:
 
-###I assembled the eniter 3018 live on MKME.tv 
+### I assembled the eniter 3018 live on MKME.tv 
 
 * Channel https://www.youtube.com/playlist?list=PLf_FeOPE7t5oFH7cH6LmOSjlNVdHZGadV
 
