@@ -26,6 +26,7 @@ All the parts Ive used to build the 3018 and upgrades I have added
 | Ebay- Router Kit CNC 3018 Pro Machine 3 Axis 10000 rpm Mill PCB Engraver GRBL Control| https://ebay.us/W8HP4r
 | Offline GRBL Controller| https://ebay.us/ckhK1e
 | ER11 Collet Set | https://amzn.to/343iBWA
+| End Mill, 10pcs Tungsten Carbide End Mill Single Flute Spiral CNC Router Bits 1/8 inch Shank 3.175x17mm for Cutting Acrylic, PVC, MDF, Density Board, Wood and Many Other Soft Materials | https://amzn.to/3FMRVaG
 | Spoilboard | https://amzn.to/3pHBZRw
 | 1" / 1/4" Spoilboard facing bit| https://amzn.to/3sNfIDH
 | Spiral Wire Wrap | https://amzn.to/3FH86WW
