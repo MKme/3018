@@ -50,6 +50,9 @@ Handy Supplies
 | 150mm Vernier Caliper Stainless Steel Digital Caliper 6 inch   | https://ebay.us/4c7PpS
 | Drill Size Gauge 29 Holes 1/16 to 1/2" Sizes Bolt Wire Diameter Index Sizer| https://ebay.us/jrOKvM
 
+## Forum Thread 
+
+Forum thread of my build: https://forum.mkme.org/viewtopic.php?f=5&p=1539#p1539
 
 ## Full videos here:
 
